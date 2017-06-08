@@ -1,0 +1,33 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>VertexOS</RomName>
+  <VersionName>![CDATA[ VertexOS-Carbide-v3.1-OFFICIAL-20170526-oneplus3 ]</VersionName>
+  <VersionNumber type="integer">20170526</VersionNumber>
+  <DirectUrl>DIRECT LINKS HERE</DirectUrl>
+  <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>MD5 HERE</CheckMD5>
+  <FileSize type="integer">580386816</FileSize>
+  <Developer>Joshua Choo</Developer>
+  <Changelog>### Changelog 20170526
+VertexOS v3.1 changes
+* Comes with RenderZenith 007 kernel
+* Android 7.1.2 (5 May 2017 security string)
+* CAF LA.UM.5.8.r1-01600-8x98.0 tag
+* In line with Lineage's latest commits
+* OB16 blobs
+* OOS Camera without processing dialogue or weird green screens
+* Latest Substratum commits added
+* Disabled sdcardfs (to avoid white LED bug)
+* HSPA+ icons
+* High brightness mode QS tile
+* Fixed Bluetooth issues
+* Other internal updates
+RenderZenith EAS 007 changes
+* Updated to Lineage's latest commits
+* EAS updates (thanks to @RenderBroken)
+* Spectrum support
+* BFQ updates
+* F2FS updates
+</Changelog>
+</ROM>
