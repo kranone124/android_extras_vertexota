@@ -7,7 +7,7 @@
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>MD5 HERE</CheckMD5>
-  <FileSize type="integer">491500000</FileSize>
+  <FileSize type="integer">515375104</FileSize>
   <Developer>Vibhoothi,Joshua Choo</Developer>
   <Changelog>### Changelog 20170602
 -FULL Rebased source to Pure CAF with few lineage elements.
