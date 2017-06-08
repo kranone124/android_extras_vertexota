@@ -1,0 +1,40 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>VertexOS</RomName>
+  <VersionName>![CDATA[ VertexOS-Carbide-v3.1-OFFICIAL-20170602-oneplus2 ]</VersionName>
+  <VersionNumber type="integer">20170602</VersionNumber>
+  <DirectUrl>DIRECT LINKS HERE</DirectUrl>
+  <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>MD5 HERE</CheckMD5>
+  <FileSize type="integer">491500000</FileSize>
+  <Developer>Vibhoothi,Joshua Choo</Developer>
+  <Changelog>### Changelog 20170602
+-FULL Rebased source to Pure CAF with few lineage elements.
+-Kernel is rebased 
+-Camera is now HAL3.
+-HAl3 improvements.
+-Added back HSPA+ icon.
+-Added KCAL support
+-Improved significantly First boot.
+-Potential FIX for Wi-Fi scanning issue.
+-UI optimisations.
+-Fixed Huge Battery DRAIN due to motion sensor.
+~Bluetooth Headset FIX.
+-Added back VOLTE icon.
+-Enable/Disable Bluetooth battery status in System UI tuner.
+-Improved speed and memory usage.
+-Major Kernel Changes
+-Many kernel tweaks
+-Enabled 2.4Ghz Wifi Channel bonding
+-Increased Speaker/Headphone output volumes 
+-F2Fs Support 
+-Import translations
+-Added Fastcharge Drivers 
+-Added 27Mhz GPU frequency 
+-Adreno  Idler added for maximising performance minimal power 
+-Perfromance improvements 
+-Thermal profile changes
+-Introduce Haloplug, For making better for miminising power and maximising performance
+</Changelog>
+</ROM>
