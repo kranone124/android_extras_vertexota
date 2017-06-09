@@ -1,7 +1,7 @@
  <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>VertexOS-OnePlus2</RomName>
-  <VersionName>![CDATA[ VertexOS-Carbide-v3.2-TEST-20170607-oneplus2 ]</VersionName>
+  <VersionName>![CDATA[ VertexOS-Carbide-v3.2-TEST-20170612-oneplus2 ]</VersionName>
   <VersionNumber type="integer">20170612</VersionNumber>
   <DirectUrl>http://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-TEST-20170607-oneplus2.zip/download</DirectUrl>
   <HttpUrl>http://sourceforge.net/projects/vertexos-ota/files/Oneplus2/</HttpUrl>
@@ -9,7 +9,7 @@
   <CheckMD5>dd89b37da426ccde811658d00f39e02f</CheckMD5>
   <FileSize type="integer">442603929</FileSize>
   <Developer>Vibhoothi,Joshua Choo</Developer>
-  <Changelog>### Changelog 20170607
+  <Changelog>### Changelog 20170612
 -TEST BUILD
 Now its version 3.2 
 -Latest Caf merge for kernel 
