@@ -1,40 +1,23 @@
  <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>VertexOS</RomName>
-  <VersionName>![CDATA[ VertexOS-Carbide-v3.1-OFFICIAL-20170602-oneplus2 ]</VersionName>
+  <RomName>VertexOS-OnePlus2</RomName>
+  <VersionName>![CDATA[ VertexOS-Carbide-v3.2-TEST-20170607-oneplus2 ]</VersionName>
   <VersionNumber type="integer">20170602</VersionNumber>
-  <DirectUrl>DIRECT LINKS HERE</DirectUrl>
-  <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
+  <DirectUrl>https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-TEST-20170607-oneplus2.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>MD5 HERE</CheckMD5>
-  <FileSize type="integer">515375104</FileSize>
+  <CheckMD5>dd89b37da426ccde811658d00f39e02f</CheckMD5>
+  <FileSize type="integer">442603929</FileSize>
   <Developer>Vibhoothi,Joshua Choo</Developer>
-  <Changelog>### Changelog 20170602
--FULL Rebased source to Pure CAF with few lineage elements.
--Kernel is rebased 
--Camera is now HAL3.
--HAl3 improvements.
--Added back HSPA+ icon.
--Added KCAL support
--Improved significantly First boot.
--Potential FIX for Wi-Fi scanning issue.
--UI optimisations.
--Fixed Huge Battery DRAIN due to motion sensor.
-~Bluetooth Headset FIX.
--Added back VOLTE icon.
--Enable/Disable Bluetooth battery status in System UI tuner.
--Improved speed and memory usage.
--Major Kernel Changes
--Many kernel tweaks
--Enabled 2.4Ghz Wifi Channel bonding
--Increased Speaker/Headphone output volumes 
--F2Fs Support 
--Import translations
--Added Fastcharge Drivers 
--Added 27Mhz GPU frequency 
--Adreno  Idler added for maximising performance minimal power 
--Perfromance improvements 
--Thermal profile changes
--Introduce Haloplug, For making better for miminising power and maximising performance
+  <Changelog>### Changelog 20170607
+-TEST BUILD
+Now its version 3.2 
+-Latest Caf merge for kernel 
+-Doze improvements
+-Power optimisations
+-Reduced SS delay to 300ms 
+-Launcherr3 improvements
+-MediaCodec improvements
+-Added 0.25 and 0.75 animation step
 </Changelog>
 </ROM>
