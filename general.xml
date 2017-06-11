@@ -1,0 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>VertexOS-devicename</RomName>
+  <VersionName>![CDATA[ VertexOS-Carbide-v3.2-BUILDTYPE-BUILDDATE--devicename]</VersionName>
+  <VersionNumber type="integer">BUILD DATE </VersionNumber>
+  <DirectUrl>SOURCEFORGE LINK </DirectUrl>
+  <HttpUrl>FOLDER LINK </HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>MD5 of FILE </CheckMD5>
+  <FileSize type="integer">SIZE IN BINARY </FileSize>
+  <Developer>NAME OF DEV </Developer>
+  <Changelog>### Changelog DATE IN YYMMDD
+-
+_
+_
+_
+_
+_
+</Changelog>
+</ROM>
+
+
+
