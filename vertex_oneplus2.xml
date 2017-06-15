@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
-<VersionName>VertexOS-Carbide-v3.2-TEST-20170607-oneplus2</VersionName>
+<VersionName>VertexOS-Carbide-v3.2-TEST-20170615-oneplus2</VersionName>
 <VersionNumber type="integer">20170618</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-TEST-20170607-oneplus2.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=889764386195908169]]></HttpUrl>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-TEST-20170615-oneplus2.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298964233]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>dd89b37da426ccde811658d00f39e02f</CheckMD5>
-<FileSize type="integer">442603929</FileSize>
+<CheckMD5>d5feb7dfbaa5e60b2fee0ed0e81d02d3</CheckMD5>
+<FileSize type="integer">427227319</FileSize>
 <Developer><![CDATA[vibhoothiiaanand]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom7-1-1-vertex-os-oneplus2-t3573408]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
-
+TEST OTA 
+Updated kernel 
+Few new feautes 
+LATER 
 # Note : 
-
 _Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
 
