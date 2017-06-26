@@ -2,8 +2,8 @@
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
 <VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170624-oneplus2</VersionName>
-<VersionNumber type="integer">20170628</VersionNumber>
-<DirectUrl><![CDATA[http://pn-ota.jhdev.me/download/745425885120743942]]></DirectUrl>
+<VersionNumber type="integer">20170624</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-OFFICIAL-20170624-oneplus2.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120743942]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>38fd19dd57c874f64b55c8d4ea9f398b</CheckMD5>
