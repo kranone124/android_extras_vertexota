@@ -2,7 +2,7 @@
 <ROM>
     <RomName>VertexOS-OnePlus3</RomName>
     <VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170626-oneplus3</VersionName>
-    <VersionNumber type="integer">20170626</VersionNumber>
+    <VersionNumber type="integer">20170627</VersionNumber>
     <DirectUrl><![CDATA[https://sourceforge.net/projects/vertex-os/files/ROMs/VertexOS-Carbide-v3.2-OFFICIAL-20170626-oneplus3.zip/download]]></DirectUrl>
     <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634781844]]></HttpUrl>
     <Android>7.1.2</Android>
