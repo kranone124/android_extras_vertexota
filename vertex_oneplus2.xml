@@ -3,7 +3,7 @@
 <RomName>VertexOS-OnePlus2</RomName>
 <VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2</VersionName>
 <VersionNumber type="integer">20170627</VersionNumber>
-<DirectUrl><![CDATA[https://www.dropbox.com/s/w2ilfytjms5vasm/VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2.zip?dl=1]]></DirectUrl>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120743942]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>79b189c367144207354ac34b7f091cb9</CheckMD5>
@@ -13,14 +13,14 @@
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
-HOTFIX update
-Fixed Charging issue
-Fixed CPU freq not loading and broken
-Fixed default governer
-Fixed Big cluster issue
-Fixed idle drain 
-Set recents task bar dismiss delay to 0 seconds 
-Added back boostframework
+##HOTFIX update
+*Fixed Charging issue
+*Fixed CPU freq not loading and broken
+*Fixed default governer
+*Fixed Big cluster issue
+*Fixed idle drain 
+*Set recents task bar dismiss delay to 0 seconds 
+*Added back boostframework
 # Note : 
 _Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
