@@ -1,27 +1,30 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-    <RomName>VertexOS-OnePlus3</RomName>
-    <VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170626-oneplus3</VersionName>
-    <VersionNumber type="integer">20170627</VersionNumber>
-    <DirectUrl><![CDATA[https://sourceforge.net/projects/vertex-os/files/ROMs/VertexOS-Carbide-v3.2-OFFICIAL-20170626-oneplus3.zip/download]]></DirectUrl>
-    <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634781844]]></HttpUrl>
-    <Android>7.1.2</Android>
-    <CheckMD5>97fd64c06a77f62f5236635c4879c5d6</CheckMD5>
-    <FileSize type="integer">567728970</FileSize>
-    <Developer><![CDATA[joshuous]]></Developer>
-    <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-kernel-vertexos-blazar-zenith-kernel-t3571781]]></WebsiteURL>
-    <DonateURL><![CDATA[https://www.paypal.me/joshuous]]></DonateURL>
-    <Changelog><![CDATA[
-- ROM Updates
-- VertexOS v3.2 changes
-- VertexOTA bringup!
-- Enable IO prefetching
-- Updated to CAF LA.UM.5.8.r1-02000-8x98.0 tag
-- Updated to Lineage latest device and kernel commits
-- Dialer: add in-call vibration features
-- Restrict system-background tasks to little cluster only
-- Switched to PELT for load tracking
-- Kernel updated in line with @RenderBroken's latest EAS commits
+<RomName>VertexOS-OnePlus3</RomName>
+<VersionName><![CDATA[VertexOS Carbide v3.2]]></VersionName>
+<VersionNumber type="integer">20170627</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/vertex-os/files/ROMs/VertexOS-Carbide-v3.2-OFFICIAL-20170626-oneplus3.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634781844]]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>97fd64c06a77f62f5236635c4879c5d6</CheckMD5>
+<FileSize type="integer">567728970</FileSize>
+<Developer><![CDATA[joshuous]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-kernel-vertexos-blazar-zenith-kernel-t3571781]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/joshuous]]></DonateURL>
+<Changelog>
+<![CDATA[
+## VertexOS changes:
+* VertexOTA bringup!
+* Enable IO prefetching
+* Updated to CAF LA.UM.5.8.r1-02000-8x98.0 tag
+* Updated to Lineage latest device and kernel commits
+* Dialer: add in-call vibration features
+* Restrict system-background tasks to little cluster only
+
+## RenderZenith kernel changes:
+* Switched to PELT for load tracking
+* Kernel updated in line with @RenderBroken's latest EAS and Lineage commits
+* Removed a ton of 'optimizations'. I'll be doing more benchmarking before re-adding them back. Let's keep things simple.
 ]]>
 </Changelog>
 </ROM>
