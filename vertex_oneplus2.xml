@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
-<VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170624-oneplus2</VersionName>
-<VersionNumber type="integer">20170624</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-OFFICIAL-20170624-oneplus2.zip/download]]></DirectUrl>
+<VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2</VersionName>
+<VersionNumber type="integer">20170627</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/vertexos-ota/files/Oneplus2/VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120743942]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>38fd19dd57c874f64b55c8d4ea9f398b</CheckMD5>
-<FileSize type="integer">502385265</FileSize>
+<CheckMD5>79b189c367144207354ac34b7f091cb9</CheckMD5>
+<FileSize type="integer">502100203</FileSize>
 <Developer><![CDATA[vibhoothiiaanand]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom7-1-1-vertex-os-oneplus2-t3573408]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
--Now its version 3.2 
--OTA updates Fully working 
- -Removed Greenlines of Camera when taking photos -SElinux is now Enforcing
--Fixed many selinux denials -Kernel improvements 
--Kernel cleanup
--Doze improvements
--Power optimisations
--Fixed Wakelock bug
--Reduced SS delay to 300ms 
--Launcherr3 improvements
--MediaCodec improvements
--Added 0.25 and 0.75 animation step
--Now All  official builds are USER variant.
--Removed Haloplug 
--Merged Latest CAF tag
--Removed few lineage things 
+HOTFIX update
+Fixed Charging issue
+Fixed CPU freq not loading and broken
+Fixed default governer
+Fixed Big cluster issue
+Fixed idle drain 
+Set recents task bar dismiss delay to 0 seconds 
+Added back boostframework
 # Note : 
 _Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
