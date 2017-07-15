@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>VertexOS-OnePlusX</RomName>
+<VersionName><![CDATA[VertexOS Carbide v3.3]]></VersionName>
+<VersionNumber type="integer">20170715</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/xxxxxx]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=xxxxxx]]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>XXXXXX</CheckMD5>
+<FileSize type="integer">XXXXXX</FileSize>
+<Developer><![CDATA[Fabio Pinna]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/unofficial-vertexos-t3609926]]></Websit$
+<DonateURL><![CDATA[https://www.paypal.me/joshuous]]></DonateURL>
+<Changelog>
+<![CDATA[
+## VertexOS changes:
+
+]]>
+</Changelog>
+</ROM>.
