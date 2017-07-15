@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
-<VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2</VersionName>
-<VersionNumber type="integer">20170627</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.2-OFFICIAL-20170627-oneplus2.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120743942]]></HttpUrl>
+<VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170715-oneplus2</VersionName>
+<VersionNumber type="integer">20170715</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170715-oneplus2.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=889764386195916170]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>79b189c367144207354ac34b7f091cb9</CheckMD5>
+<CheckMD5>f60f65ff1be379b0fb776d5a3282b6ce</CheckMD5>
 <FileSize type="integer">502100203</FileSize>
 <Developer><![CDATA[vibhoothiiaanand]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom7-1-1-vertex-os-oneplus2-t3573408]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
-## HOTFIX update
-* Fixed Charging issue
-* Fixed CPU freq not loading and broken
-* Fixed default governer
-* Fixed Big cluster issue
-* Fixed idle drain 
-* Set recents task bar dismiss delay to 0 seconds 
-* Added back boostframework
+## VertexOS Official
 
+* Now version 3.3
+* Implemented Boeffla Touch control :Earlier if you touch your device display the hardware backlight will glow up that is really weird behaviour now its fixed
+* Made OP5 camera as default  *Removed duplicate camera app
+* Show LTE+ instead of 4G+{if supported) *Fix power off saying your phone will reboot *Fixed Broken Slider customisations
+* Fixed Channel50 issue  *Added back Haloplug
+* Merged latest CAF tag
+* Minor optimisations 
 # Note : 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
