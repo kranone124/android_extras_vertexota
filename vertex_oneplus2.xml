@@ -13,15 +13,19 @@
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
-## VertexOS Official
+## VertexOS Official 15/07
 
 * Now version 3.3
 * Implemented Boeffla Touch control :Earlier if you touch your device display the hardware backlight will glow up that is really weird behaviour now its fixed
-* Made OP5 camera as default  *Removed duplicate camera app
-* Show LTE+ instead of 4G+{if supported) *Fix power off saying your phone will reboot *Fixed Broken Slider customisations
-* Fixed Channel50 issue  *Added back Haloplug
+* Made OP5 camera as default 
+* Removed duplicate camera app
+* Fix power off saying your phone will reboot
+* Fixed Broken Slider customisations
+* Fixed Channel50 issue 
+* Added back Haloplug
 * Merged latest CAF tag
 * Minor optimisations 
+
 # Note : 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
