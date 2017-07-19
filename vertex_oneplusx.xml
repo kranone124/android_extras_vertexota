@@ -1,23 +1,29 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-Onyx</RomName>
-<VersionName><![CDATA[VertexOS Carbide v3.3]]></VersionName>
-<VersionNumber type="integer">20170718</VersionNumber>
+<VersionName>VertexOS-Carbide-v3.3</VersionName>
+<VersionNumber type="integer">20170719</VersionNumber>
 <DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170718-onyx.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=889764386195916895]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>2977db94ec027b3c3b14ad78085d0b27</CheckMD5>
-<FileSize type="integer">XXXXXX</FileSize>
-<Developer><![CDATA[Fabio Pinna]]></Developer>
-<WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/unofficial-vertexos-t3609926]]></Websit$
-<DonateURL><![CDATA[paypal.me/fabiosan1]]></DonateURL>
+<FileSize type="integer">290968784</FileSize>
+<Developer><![CDATA[FabioPinna]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/unofficial-vertexos-t3609926]]></WebsiteURL>
+<DonateURL><![CDATA[http://paypal.me/fabiosan1]]></DonateURL>
 <Changelog>
 <![CDATA[
-## VertexOS changes:
- - Now Officially builds
- - Updated to latest VertexOS sources
- - OTA service added
+## VertexOS Changes
+* Now version 3.3
+* Now Officail Builds
+* Added OTA service
+* Fix power off saying your phone will reboot
+* Merged latest CAF tag
+* Minor optimisations 
+# Note : 
+Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
+---
 ]]>
 </Changelog>
-</ROM>.
+</ROM>
