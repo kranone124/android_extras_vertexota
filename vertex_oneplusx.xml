@@ -2,31 +2,25 @@
 <ROM>
 <RomName>VertexOS-Onyx</RomName>
 <VersionName>VertexOS-Carbide-v3.3</VersionName>
-<VersionNumber type="integer">20170723</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170723-onyx.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634787884]]></HttpUrl>
+<VersionNumber type="integer">20170801</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170801-onyx.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120752833]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>1a79d2e0d655e132872eff93fde7012d</CheckMD5>
-<FileSize type="integer">290971901</FileSize>
+<CheckMD5>bcfa733a378c62b65e055c7908d6f1a8</CheckMD5>
+<FileSize type="integer">290959417</FileSize>
 <Developer><![CDATA[FabioSan]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/unofficial-vertexos-t3609926]]></WebsiteURL>
 <DonateURL><![CDATA[http://paypal.me/fabiosan1]]></DonateURL>
 <Changelog>
 <![CDATA[
 ## VertexOS Changes
-* Undervolt on all the frequencies (less battery consume)
-* Tune interactive config
-* Switch to row io sched for faster app launch and better perf. (google knew what's best, hands down.)
-* Switch to bfq io sched for external sd card if available, for faster io
-* Decreased readahead to 512 and increased readahead to 2048 for external for better throughput
-* Increase freq. boost to 1036 Mhz to get going with interactive config for buttery smooth UI/UX
+* Reverted Undervolt on all the frequencies
+* Play notification sound when connected/disconnected from charger
 * Merged latest CAF tag
 * Minor optimisations 
 # Note : 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
-## Note for this build:
-If you use Kernel Adiutor or similar apps, reset their changements to let be applied latest changements, if you do a dirty flash.
 ---
 ]]>
 </Changelog>
