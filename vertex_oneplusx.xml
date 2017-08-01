@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-Onyx</RomName>
-<VersionName>VertexOS-Carbide-v3.3</VersionName>
-<VersionNumber type="integer">20170723</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170723-onyx.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634787884]]></HttpUrl>
+<VersionName>VertexOS-Carbide-v3.4</VersionName>
+<VersionNumber type="integer">20170809</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.4-OFFICIAL-20170809-onyx.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634791626]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>1a79d2e0d655e132872eff93fde7012d</CheckMD5>
-<FileSize type="integer">290971901</FileSize>
+<CheckMD5>b965908854b30ff2c19df267f77fad14</CheckMD5>
+<FileSize type="integer">289218273</FileSize>
 <Developer><![CDATA[FabioSan]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/unofficial-vertexos-t3609926]]></WebsiteURL>
 <DonateURL><![CDATA[http://paypal.me/fabiosan1]]></DonateURL>
 <Changelog>
 <![CDATA[
 ## VertexOS Changes
-* Undervolt on all the frequencies (less battery consume)
-* Tune interactive config
-* Switch to row io sched for faster app launch and better perf. (google knew what's best, hands down.)
-* Switch to bfq io sched for external sd card if available, for faster io
-* Decreased readahead to 512 and increased readahead to 2048 for external for better throughput
-* Increase freq. boost to 1036 Mhz to get going with interactive config for buttery smooth UI/UX
-* Merged latest CAF tag
+* Now VertexOS 3.4
+* New OOS Camera libs and stuff 
+* Enabled Off-Mode Charging Screen
+* Enabled Accidental Touch by default
+* Upstreamed with latest Vertex stuff
 * Minor optimisations 
+
 # Note : 
+
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
-## Note for this build:
-If you use Kernel Adiutor or similar apps, reset their changements to let be applied latest changements, if you do a dirty flash.
 ---
 ]]>
 </Changelog>
