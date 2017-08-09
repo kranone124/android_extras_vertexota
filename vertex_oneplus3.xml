@@ -1,37 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus3</RomName>
-<VersionName><![CDATA[VertexOS Carbide v3.3]]></VersionName>
-<VersionNumber type="integer">20170715</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170715-oneplus3.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634786218]]></HttpUrl>
+<VersionName><![CDATA[VertexOS Carbide v3.4]]></VersionName>
+<VersionNumber type="integer">20170809</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.4-OFFICIAL-20170809-oneplus3.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298977514]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>787066f95210a7a61a8bdd5cac2e99d0</CheckMD5>
-<FileSize type="integer">569435490</FileSize>
+<CheckMD5>2163d08f1aac864fe7d838e954e257a2</CheckMD5>
+<FileSize type="integer">569814496</FileSize>
 <Developer><![CDATA[joshuous]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-kernel-vertexos-blazar-zenith-kernel-t3571781]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/joshuous]]></DonateURL>
 <Changelog>
 <![CDATA[
-## VertexOS changes:
-* Improve Schedutil performance (I noticed before it was performing terribly compared to Sched)
-* Re-enabled sdcardfs
-* Back to CFQ for now
-* Updated APNs from LineageOS
-* Updated to latest blobs and device tree commits from LineageOS
-* Reverted VR framework until someone tells me they want to use it
-* UI fixes (LTE+, Shutdown message, etc)
-* Camera has the processing dialogue again (I haven't smali edit it yet)
+## Latest firmware may be needed!
 
-## RenderZenith kernel changes:
-* Upstreamed to Linux 3.18.60
-* Updated with latest LineageOS commits
-* Enable RCU_BOOST
-* Disable BUST_AUTO_SUSPEND
-* Cherry-picked some commits from Pixel kernel
-* Tuned sRGB for S6E3FA5 display
-* DCI-P3 support for S6E3FA5 displays (tunable is in /sys/devices/virtual/graphics/fb0/dci_p3. Please set it with Ex Kernel Manager or a script to echo 1 into the tunable. I'll maybe add a toggle in future)
-* Enabled Boeffla Touchkey driver by default (capacitive keys light up OOS-style)
+## VertexOS v3.4 changes:
+* CAF LA.UM.5.8.r1-02400-8x98.0 tag
+* LineageOS device tree updates
+* OxygenOS OB19 blob update
+* Re-enable high speed recording profiles for Google Camera support
+* Enable OOS Camera to work with HAL3 enabled (Amir)
+* Enable Auto HDR and 60fps recording in OOS Camera (Amir)
+* Implemented AOSPA's accidental touch feature
+* Fixed disabling of capacitive button backlights
+* Re-enabled custom off-mode charging display
+* Preloading of extra classes for increased app launch speeds and extra responsiveness in apps
+* Add system-background stune node (dev/stune/system-background) for schedtune boost support 
+* Launcher3: enable changing icons and app label's (from AOSPA)
+* Bring back Fast Dormancy
+* Updated APNs
+* Other miscellaneous additions and fixes
+
+## RenderZenith 010 kernel changes:
+* LineageOS updates
+* Binder updates for improved Interprocess Communication performance (measured)
+* Linux kernel upstreamed to 3.18.62
+* Update sRGB tuning based on latest OnePlus commit
 ]]>
 </Changelog>
 </ROM>
