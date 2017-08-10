@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
-<VersionName>VertexOS-Carbide-v3.2-OFFICIAL-20170715-oneplus2</VersionName>
-<VersionNumber type="integer">20170715</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170715-oneplus2.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=889764386195916170]]></HttpUrl>
+<VersionName>VertexOS-Carbide-v3.4</VersionName>
+<VersionNumber type="integer">20170810</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.4-OFFICIAL-20170810-oneplus2.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120754539]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>f60f65ff1be379b0fb776d5a3282b6ce</CheckMD5>
-<FileSize type="integer">498841742</FileSize>
+<CheckMD5>74ef16d68af69ae76839841254499fe0</CheckMD5>
+<FileSize type="integer">495724114</FileSize>
 <Developer><![CDATA[vibhoothiiaanand]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom7-1-1-vertex-os-oneplus2-t3573408]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
@@ -15,16 +15,31 @@
 <![CDATA[
 ## VertexOS Official 15/07
 
-* Now version 3.3
-* Implemented Boeffla Touch control :Earlier if you touch your device display the hardware backlight will glow up that is really weird behaviour now its fixed
-* Made OP5 camera as default 
-* Removed duplicate camera app
-* Fix power off saying your phone will reboot
-* Fixed Broken Slider customisations
-* Fixed Channel50 issue 
-* Added back Haloplug
-* Merged latest CAF tag
-* Minor optimisations 
+* Now version 3.4
+* CAF LA.UM.5.8.r1-02400-8x98.0 tag
+* Implemented AOSPA's accidental touch feature
+* Re-enabled custom off-mode charging display
+* Preloading of extra classes for increased app launch speeds and extra responsiveness in apps
+* Add system-background stune node (dev/stune/system-background) for schedtune boost support
+* Launcher3: enable changing icons and app label's (from AOSPA)
+* Bring back Fast Dormancy
+* Updated APNs
+* Updated kernel  to 3.10.107 
+* Made Maple as default I/O scheduler 
+* Added  Pdesireaudio 10.1
+* Underclocked few cores 
+* Removed Haloplug
+* Removed H-cubre residue
+* Change in CPU state during charging 
+* Added autoSMP: A Highly-efficient hotplug driver by @mrg666, works in-sync with the CPU governor to enable off-line cpu cores when the the CPU frequency reaches a high threshold and still more compute power is needed. 
+* Added proximity wake
+* Switched back to oneplus3 camera app
+* Added Charging Sound
+* Kernel Workqueues made to power efficient
+* Interactive governor made to angler 
+* Fixed issues in freq calculation
+* Fixed WhatsApp autofocus issue 
+* Other miscellaneous additions and fixes
 
 # Note : 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
