@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>VertexOS-falcon</RomName>
+<VersionName>VertexOS-Carbide-v3.4</VersionName>
+<VersionNumber type="integer">20170823</VersionNumber>
+<DirectUrl><![CDATA[]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=XX]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>XX</CheckMD5>
+<FileSize type="integer">XX</FileSize>
+<Developer><![CDATA[FabioSan]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/XX]]></WebsiteURL>
+<DonateURL><![CDATA[http://paypal.me/fabiosan1]]></DonateURL>
+<Changelog>
+<![CDATA[
+## VertexOS Changes
+* First Build
+
+# Note : 
+
+Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
+---
+]]>
+</Changelog>
+</ROM>
