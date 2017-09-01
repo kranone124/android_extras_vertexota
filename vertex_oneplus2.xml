@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
-<VersionName>VertexOS-Carbide-v3.4</VersionName>
-<VersionNumber type="integer">20170810</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.4-OFFICIAL-20170810-oneplus2.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120754539]]></HttpUrl>
+<VersionName>VertexOS-Carbide-v3.5</VersionName>
+<VersionNumber type="integer">20170831</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.5-OFFICIAL-20170831-oneplus2.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=961840155545592316]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>74ef16d68af69ae76839841254499fe0</CheckMD5>
-<FileSize type="integer">495724114</FileSize>
+<CheckMD5>635b85c2d51aac9dd1cb5819abcce3ed</CheckMD5>
+<FileSize type="integer">495331439</FileSize>
 <Developer><![CDATA[vibhoothiiaanand]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom7-1-1-vertex-os-oneplus2-t3573408]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
-## VertexOS Official 15/07
+## VertexOS Carbide v3.5:
 
-* Now version 3.4
-* CAF LA.UM.5.8.r1-02400-8x98.0 tag
-* Implemented AOSPA's accidental touch feature
-* Re-enabled custom off-mode charging display
-* Preloading of extra classes for increased app launch speeds and extra responsiveness in apps
-* Add system-background stune node (dev/stune/system-background) for schedtune boost support
-* Launcher3: enable changing icons and app label's (from AOSPA)
-* Bring back Fast Dormancy
-* Updated APNs
-* Updated kernel  to 3.10.107 
-* Made Maple as default I/O scheduler 
-* Added  Pdesireaudio 10.1
-* Underclocked few cores 
-* Removed Haloplug
-* Removed H-cubre residue
-* Change in CPU state during charging 
-* Added autoSMP: A Highly-efficient hotplug driver by @mrg666, works in-sync with the CPU governor to enable off-line cpu cores when the the CPU frequency reaches a high threshold and still more compute power is needed. 
-* Added proximity wake
-* Switched back to oneplus3 camera app
-* Added Charging Sound
-* Kernel Workqueues made to power efficient
-* Interactive governor made to angler 
-* Fixed issues in freq calculation
-* Fixed WhatsApp autofocus issue 
-* Other miscellaneous additions and fixes
-
+* Now version 3.5
+* FINAL Nougat build. Oreo in progress
+* CAF LA.UM.5.8.r1-02700-8x98.0 tag
+* Switch Launcher to @azaidi's Launcher3
+* Hide keyboard selector when only GBoard is activated and multiple languages are enabled
+* UI color improvements for OneplusDoze and Alert Slider menu
+* Translation imports
+* Fixed Settings - More crash affecting some users
+* Fixes for Android Auto
+* Made default DPI to 420 
+* Removed double tap on status bar to sleep (not in line with our vision)
+* Disabled autosmp hotplug
+* Change in boot frequencies 
+* Big cores are now boosting bit differently
+* WiFi qcacld changes
+* Other miscellaneous additions and fixes 
 # Note : 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
