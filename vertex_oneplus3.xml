@@ -1,42 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus3</RomName>
-<VersionName><![CDATA[VertexOS Carbide v3.4]]></VersionName>
-<VersionNumber type="integer">20170809</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.4-OFFICIAL-20170809-oneplus3.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298977514]]></HttpUrl>
+<VersionName><![CDATA[VertexOS Carbide v3.5]]></VersionName>
+<VersionNumber type="integer">20170831</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.5-OFFICIAL-20170831-oneplus3.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120758964]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>2163d08f1aac864fe7d838e954e257a2</CheckMD5>
-<FileSize type="integer">569814496</FileSize>
+<CheckMD5>77ce7649edb627e0f3e24e9436f563a9</CheckMD5>
+<FileSize type="integer">571473469</FileSize>
 <Developer><![CDATA[joshuous]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-kernel-vertexos-blazar-zenith-kernel-t3571781]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/joshuous]]></DonateURL>
 <Changelog>
 <![CDATA[
-## Latest firmware may be needed!
+## Please flash latest firmware first!
 
-## VertexOS v3.4 changes:
-* CAF LA.UM.5.8.r1-02400-8x98.0 tag
+## VertexOS Carbide v3.5 changes:
+* FINAL Nougat build. Oreo in progress
+* CAF LA.UM.5.8.r1-02700-8x98.0 tag
 * LineageOS device tree updates
-* OxygenOS OB19 blob update
-* Re-enable high speed recording profiles for Google Camera support
-* Enable OOS Camera to work with HAL3 enabled (Amir)
-* Enable Auto HDR and 60fps recording in OOS Camera (Amir)
-* Implemented AOSPA's accidental touch feature
-* Fixed disabling of capacitive button backlights
-* Re-enabled custom off-mode charging display
-* Preloading of extra classes for increased app launch speeds and extra responsiveness in apps
-* Add system-background stune node (dev/stune/system-background) for schedtune boost support 
-* Launcher3: enable changing icons and app label's (from AOSPA)
-* Bring back Fast Dormancy
-* Updated APNs
-* Other miscellaneous additions and fixes
+* OxygenOS blob updates
+* Switch Launcher to @azaidi's Launcher3
+* Hide keyboard selector when only GBoard is activated and multiple languages are enabled
+* UI color improvements for OneplusDoze and Alert Slider menu
+* Translation imports
+* Fixed Settings->More crash affecting some users
+* Fixes for Android Auto
+* Removed double tap on status bar to sleep (not in line with our vision)
 
-## RenderZenith 010 kernel changes:
+## RenderZenith 011 kernel changes:
 * LineageOS updates
-* Binder updates for improved Interprocess Communication performance (measured)
-* Linux kernel upstreamed to 3.18.62
-* Update sRGB tuning based on latest OnePlus commit
+* Will be working with @RenderBroken on new rebase
+
 ]]>
 </Changelog>
 </ROM>
