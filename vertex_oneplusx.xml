@@ -1,48 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-Onyx</RomName>
-<<<<<<< HEAD
-<VersionName>VertexOS-Carbide-v3.3</VersionName>
-<VersionNumber type="integer">20170801</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.3-OFFICIAL-20170801-onyx.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120752833]]></HttpUrl>
+<VersionName>VertexOS-Carbide-v3.5</VersionName>
+<VersionNumber type="integer">20170903</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.5-OFFICIAL-20170903-onyx.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=961840155545592931]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>bcfa733a378c62b65e055c7908d6f1a8</CheckMD5>
-<FileSize type="integer">290959417</FileSize>
-=======
-<VersionName>VertexOS-Carbide-v3.4</VersionName>
-<VersionNumber type="integer">20170817</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.4-OFFICIAL-20170817-onyx.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298979449]></HttpUrl>
-<Android>7.1.2</Android>
-<CheckMD5>70fff5742668731c9508ff303a19dc9b</CheckMD5>
-<FileSize type="integer">289210368</FileSize>
->>>>>>> b8943e2b230a27af2737983a05a88abffb4955b1
+<CheckMD5>bfd818b2941d8465e0ddc8c1e54c0f95</CheckMD5>
+<FileSize type="integer">291905536</FileSize>
 <Developer><![CDATA[FabioSan]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-x/development/unofficial-vertexos-t3609926]]></WebsiteURL>
 <DonateURL><![CDATA[http://paypal.me/fabiosan1]]></DonateURL>
 <Changelog>
 <![CDATA[
 ## VertexOS Changes
-<<<<<<< HEAD
-* Reverted Undervolt on all the frequencies
-* Play notification sound when connected/disconnected from charger
-* Merged latest CAF tag
-=======
-* Fixed Camera
-* Encreased audio recording volume
-* Enabled charger suspend
-* Added charger monitor service
-* Added additional supported audio flags
-* Removed offload flac flag
+* Now Vertex 3.5 (Last Nougat Build)
+* CAF LA.UM.5.8.r1-02700-8x98.0 tag
+* Fixed GPS Disconnetting too much frequently
+* Updated to new rebased Arsenic Kernel
+* Solved lag problems
+* Dropped some audio flags temporarily
+* Fixed Screen mirroring/wifi display 
 * Upstreamed with latest Vertex stuff
->>>>>>> b8943e2b230a27af2737983a05a88abffb4955b1
 * Minor optimisations 
 
 # Note : 
 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
+Note for this build: If camera still not work, do a clean flash. Also, check kernel settings with kernel adiutor and tune it,
+if you find lags (you shouldn't). Actually there is the chance you cant' eproduce AVI files from stock gallery. Use Mx Player instead.
 ---
 ]]>
 </Changelog>
