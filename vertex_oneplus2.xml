@@ -1,36 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>VertexOS-OnePlus2</RomName>
-<VersionName>VertexOS-Carbide-v3.5</VersionName>
-<VersionNumber type="integer">20170831</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.5-OFFICIAL-20170831-oneplus2.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=961840155545592316]]></HttpUrl>
+<VersionName>VertexOS-Carbide-v3.6</VersionName>
+<VersionNumber type="integer">20170914</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/VertexOS-Carbide-v3.6-OFFICIAL-20170916-oneplus2.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=961840155545596245]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>635b85c2d51aac9dd1cb5819abcce3ed</CheckMD5>
-<FileSize type="integer">495331439</FileSize>
+<CheckMD5>5613b38a1a2704a751da8b9f2c8dd68f</CheckMD5>
+<FileSize type="integer">495340512</FileSize>
 <Developer><![CDATA[vibhoothiiaanand]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom7-1-1-vertex-os-oneplus2-t3573408]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/vibhoothiiaanand]]></DonateURL>
 <Changelog>
 <![CDATA[
-## VertexOS Carbide v3.5:
+## VertexOS Carbide v3.6:
 
-* Now version 3.5
-* FINAL Nougat build. Oreo in progress
-* CAF LA.UM.5.8.r1-02700-8x98.0 tag
-* Switch Launcher to @azaidi's Launcher3
-* Hide keyboard selector when only GBoard is activated and multiple languages are enabled
-* UI color improvements for OneplusDoze and Alert Slider menu
-* Translation imports
-* Fixed Settings - More crash affecting some users
-* Fixes for Android Auto
-* Made default DPI to 420 
-* Removed double tap on status bar to sleep (not in line with our vision)
-* Disabled autosmp hotplug
-* Change in boot frequencies 
-* Big cores are now boosting bit differently
-* WiFi qcacld changes
-* Other miscellaneous additions and fixes 
+* Now version 3.6
+* Fixed Blueborne bluetooth issue 
+* Lastest CAF merges 
+* Removed AutoSMP 
+* Kernel improvements 
+*  Nothing more since this is a quick FIX to solve blue borne bluetooth issue so you guys dont suffer :). 
 # Note : 
 Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
