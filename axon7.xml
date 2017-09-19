@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>VertexOS-Axon7</RomName>
+<VersionName><![CDATA[VertexOS Carbide v3.6]]></VersionName>
+<VersionNumber type="integer">20170916</VersionNumber>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=216415]]></HttpUrl>
+<Android>7.1.2</Android>
+<Developer><![CDATA[Kranoner]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/axon-7/development/rom-kernel-vertexos-carbide-v3-5-finale-t3672802]]></WebsiteURL>
+<Changelog>
+<![CDATA[
+## Please flash latest firmware first!
+## VertexOS Carbide v3.6 changes:
+* Blueborne fix
+* LineageOS updates
+* CAF LA.UM.5.8.r1-02800-8x98.0 tag
+## HellsGate kernel changes:
+* LineageOS updates
+]]>
+</Changelog>
+</ROM>
